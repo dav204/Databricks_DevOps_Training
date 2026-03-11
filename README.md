@@ -1,2 +1,2 @@
-# Databricks_DevOps_Training
-March 11 2026 Databricks DevOps Lab
+# Databricks DevOps Training
+My first push and commit.
